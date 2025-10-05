@@ -1,6 +1,6 @@
 # RPA — umbrella repository
 
-RPA is advanced scalable tool used by Czech Competition Authority for price analysis and detection of anticompetitive behavior.
+RPA - Retail Price Analyzer - is advanced scalable tool used by Czech Competition Authority for price analysis and detection of anticompetitive behavior.
 
 This umbrella repository groups the project’s components:
 
